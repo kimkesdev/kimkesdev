@@ -1,5 +1,6 @@
 # Hi, I'm Kim. 
 
-## I'm a Fullstack Web Developer student @ Code Institute.
+## Fullstack Web Developer student @ Code Institute.
+Since January 2020. Finished May 2021.
 
 ![Welcome!](kimkesdev_minime_fullstackwebdeveloper.png?raw=true "Title")
