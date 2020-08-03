@@ -2,4 +2,4 @@
 
 ## Fullstack Web Developer student @ Code Institute.
 
-![Welcome](kimkesdev_minime.png)
+![MiniMe](kimkesdev_minime.png)
