@@ -1,5 +1,5 @@
 # Hi, I'm Kim Kes.
 
-## Fullstack Web Developer student @ Code Institute.
+## Junior Software Developer
 
 ![MiniMe](kimkesdev_minime.png)
