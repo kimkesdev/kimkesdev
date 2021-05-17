@@ -1,5 +1,5 @@
 # Hi, I'm Kim Kes.
 
-## Junior Software Developer
+Software Developer
 
-![MiniMe](kimkesdev_minime.png)
+![](https://gph.is/g/aQOAzPR)
