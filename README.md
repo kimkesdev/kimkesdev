@@ -20,6 +20,10 @@ I love to make a thought to a real working project.
     <li>Figma
 </ul>
 
+Codewars JavaScript challenges:
+
+![](https://www.codewars.com/users/kimkesdev/badges/large)
+
 ## Back-End
 <ul>
     <li>Python
