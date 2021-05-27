@@ -2,7 +2,12 @@
 
 # Kim Kes - Software Developer
 
-Graduated as Software Developer in March 2021. 🏆<br>
+<ul style="list-style-type:none">
+  <li>🏆 Graduated as Software Developer in March 2021 
+  <li>📍 Based near Amsterdam, Netherlands
+  <li>:octocat: Always creating projects
+  <li>📚 Always learning new tech 
+</ul>
 
 ![](plane-line2.jpg)
 
