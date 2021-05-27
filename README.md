@@ -2,12 +2,10 @@
 
 # Kim Kes - Software Developer
 
-<ul style="list-style-type:none">
-  <li>🏆 Graduated as Software Developer in March 2021 
-  <li>📍 Based near Amsterdam, Netherlands
-  <li>:octocat: Always creating projects
-  <li>📚 Always learning new tech 
-</ul>
+ Graduated as Software Developer in March 2021 🏆 <br>
+ Based near Amsterdam, Netherlands 📍 <br>
+ Always creating projects :octocat: <br>
+Always learning new tech 📚
 
 ![](plane-line2.jpg)
 
@@ -20,8 +18,7 @@
 ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/)
 ![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/)
   
-![](https://www.codewars.com/users/kimkesdev/badges/large)
-  
+<hr>  
 
 ## Back-End
 ![](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/)
@@ -36,6 +33,8 @@
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/)
 ![](https://camo.githubusercontent.com/b746d6462744834717458ce434499b440b2614401b2f9dd351776482958dbc64/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726970652d3637373265353f6c6f676f3d737472697065266c6f676f436f6c6f723d666666666666267374796c653d666f722d7468652d6261646765)
 
+<hr>  
+  
 ## My Tools
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/)        
   
@@ -47,6 +46,12 @@
 ![](https://camo.githubusercontent.com/a0e17e3c41abff3e7abb85b7df8b9fa42794c7df939eb6ed01f970c8677ad7a0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4669676d6126636f6c6f723d463234453145266c6f676f3d4669676d61266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![](https://camo.githubusercontent.com/e568135c48076049e77541a1f9bef6ee1c9a08bde37c8a6efb7e3cde3410c698/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d43616e766126636f6c6f723d323232323232266c6f676f3d43616e7661266c6f676f436f6c6f723d303043344343266c6162656c3d)
 
+<hr>
+  
+## Practise
+  
+![](https://www.codewars.com/users/kimkesdev/badges/large)
+  
 ![](plane-line.jpg)
 
 </span>
