@@ -99,7 +99,7 @@ When I had to create an database project, I decide to create a bucketlist websit
 :peace_symbol:[Live website](https://bucketlist-2020.herokuapp.com/) <br>
   
 ### Meet my family
-Playing around with CSS Flip Cards and [Avataaars](avataaars.com). <br>
+Playing around with CSS Flip Cards and [Avataaars](https://avataaars.com/). <br>
 :peace_symbol:[Live website](https://kimkesdev.github.io/css-projects/flip_card/flip_card.html)
 
 ### CSS Projects
