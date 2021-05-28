@@ -114,7 +114,7 @@ JavaScript has got so many cool functions!<br>
 
 ### My first Hackathon
 May 2021 <br>
-[Code Institute](https://codeinstitute.com)'s first-ever #women-in-tech Hackathon <br>
+[Code Institute](https://codeinstitute.net)'s first-ever #women-in-tech Hackathon <br>
 Let's inspire, connect and grow Code Institute's Women in Tech community! <br>
 My team had five developers. Three Code Institute students and two former students (me). It the first hackathon of all of us. <br>
 We learned how to brainstorm through Slack calls, collaborate and divide tasks. <br>
