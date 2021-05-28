@@ -43,50 +43,60 @@
 
 <hr>
   
-## Practise
+## Codewars JavaScript Practise
   
 ![](https://www.codewars.com/users/kimkesdev/badges/large)
   
 ![](plane-line.jpg)
  
+ <hr>
+  
  ## This is me
   
-During the day im focused. Creating, investigating, planning, reading, studying.
-In bed I need a notebook, because one idea pops up after another idea.
-At night i dream solutions.
+:sparkler: <br>
+During the day I'm focused. Creating, investigating, planning, reading, studying. <br>
+In bed I need a notebook, because one idea pops up after another idea. <br>
+At night i dream solutions. <br>
 And in the morning I run. Some days hard, some days relaxt. Some days far, some days just a bit. After that, bring it on. 
-<br><br>
- 
-As a kid I was a runner, later I became a walker. Relaxt chatting while walking a halve a marathon. 
-At the start of corona my daughter couldn't go to her sport club anymore and asked me to run with her. I havent stopped since.
-Two times a week I run 6km with my friend, chatting away. Like tea time, but more active.
-Two times a week I run with my mom at our atletics club, learning running techniques. Mostly 7km, while I'm chatting to my mom. 
-And I run with my husband. My husband only knows one speed, and that's full speed. His biggest passion is speed surfing. It's all about fast, faster, fastest. 
-He doesn't run underneath 10km and doesn't do 'fast walking'. So, no chatting, just full speed. Well, it makes me push myself, and I like it (afterwards). 
-<br><br>
- 
-Every full moon I go for a walk with my (spiritual) friend. We just enjoy the nature and chat about life.
-We also do all sorts of activities outside of our comfort zone. 
-Like ecstatic dance. Don't connect with your surrounding, only connect with yourself.
-We went singing, because we feared it.
-Sweat lodge, painting class, mud survival, walk bare feet in the snow, etc etc.
-Silence day at a community. 8 hours of yoga, meditation, walk in nature, eating without talking or eye contact. Only to learn to listen to ourselfs.
-If we fear something, we'll do it.
-<br><br>
- 
-I was born near the sea, where I go swimmimg in the summer.
-After I found out I feared cold circumstances, I started swimming on cold days. The coldest water temperature I swom in was 7 degrees celcious. Brrr.
-<br><br>
- 
-At my former house I had a vegatable garden, I find it a beautiful process of seeing the plants grow. At my new house I decided to not have one again. Now I have lots of pots with herbs, fruits and flowers in the garden. Inside the house I have a lot different types of plants. I think I have about 20 aloë Vera plants, my daughters like to make lotion of it. <br>
-When I had to create an e-commerce website for my study I decided to have create a plant shop.
-<br><br>
- 
-I always have lots of ideas and always write everything down.
-I have an diary app to write every day a little bit about my life.
-Old fashion papers I use for my brainstorming. Every time an idea pops up, I write it down and working it out to a plan.
-I use trello to plan my studying and projects.
-When I had to create an database project, I decide to create a bucketlist website.
+<br>
 
+:runner: <br>
+As a kid I was a runner. Later I became a walker, with walking tours of halve a marathon. <br>
+At the start of corona my daughter couldn't go to her sport club anymore and asked me to run with her. I haven't stopped since. <br>
+Two times a week I run 6km with my friend, chatting away. Like tea time, but more active. <br>
+Two times a week I run with my mom at our atletics club, learning running techniques. Mostly 7km, while I'm chatting to my mom. <br>
+And I run with my husband. My husband only knows one speed, and that's full speed. His biggest passion is speed surfing. It's all about fast, faster, fastest. 
+He doesn't run underneath 10km and doesn't do 'fast walking'. So, no chatting, just full speed. <br>
+Well, it makes me push myself, and I like it (afterwards). 
+<br>
+ 
+:full_moon: <br>
+Every full moon I go for a walk with my (spiritual) friend. We just enjoy the nature and chat about life.  <br>
+We also do all sorts of activities outside of our comfort zone.  <br>
+Like ecstatic dance. Don't connect with your surrounding, only connect with yourself. <br>
+We went singing, because we feared it. <br>
+Sweat lodge, painting class, mud survival, walk bare feet in the snow, etc etc. <br>
+Silence day at a community. 8 hours of yoga, meditation, walk in nature, eating without talking or eye contact. Only to learn to listen to ourselfs. <br>
+If we fear something, we'll do it.
+<br>
+
+:snowman: <br>
+I was born near the sea, where I go swimmimg in the summer. <br>
+After I found out I feared cold circumstances, I started swimming on cold days. The coldest water temperature I swom in was 7 degrees celcius. Brrr.
+<br>
+ 
+:seedling:<br>
+At my former house I had a vegatable garden, I find it a beautiful process of seeing the plants grow.  <br>
+At my new house I decided to not have one again. Now I have lots of pots with herbs, fruits and flowers in the garden.  <br>
+Inside the house I have a lot different types of plants. I think I have about 20 aloë Vera plants, my daughters like to make lotion of it. <br>
+When I had to create an e-commerce website for my study I decided to have create a plant shop.
+<br>
+
+:file_folder: <br>
+I always have lots of ideas and always write everything down. <br>
+I have an diary app to write every day a little bit about my life. <br>
+Old fashion papers I use for my brainstorming. Every time an idea pops up, I write it down and working it out to a plan. <br>
+I use trello to plan my studying and projects. <br>
+When I had to create an database project, I decide to create a bucketlist website.
 
 </span>
