@@ -40,46 +40,12 @@
 ![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/)
 ![](https://camo.githubusercontent.com/a0e17e3c41abff3e7abb85b7df8b9fa42794c7df939eb6ed01f970c8677ad7a0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4669676d6126636f6c6f723d463234453145266c6f676f3d4669676d61266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![](https://camo.githubusercontent.com/e568135c48076049e77541a1f9bef6ee1c9a08bde37c8a6efb7e3cde3410c698/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d43616e766126636f6c6f723d323232323232266c6f676f3d43616e7661266c6f676f436f6c6f723d303043344343266c6162656c3d)
-
-<hr>
-  
-## Codewars JavaScript Practise
-  
-![](https://www.codewars.com/users/kimkesdev/badges/large)
   
 ![](plane-line.jpg)
  
  <hr>
-  
- ## This is me
-  
-### :sparkler: 
-During the day I'm focused. Creating, investigating, planning, reading, studying. <br>
-In bed I need a notebook, because one idea pops up after another idea. <br>
-At night i dream solutions. <br>
-And in the morning I run. Some days hard, some days relaxt. Some days far, some days just a bit. After that, bring it on. 
 
-#### :runner: 
-As a kid I was a runner. Later I became a walker, with walking tours of halve a marathon. <br>
-At the start of corona my daughter couldn't go to her sport club anymore and asked me to run with her. I haven't stopped since. <br>
-Two times a week I run 6km with my friend, chatting away. Like tea time, but more active. <br>
-Two times a week I run with my mom at our atletics club, learning running techniques. Mostly 7km, while I'm chatting to my mom. <br>
-And I run with my husband. My husband only knows one speed, and that's full speed. His biggest passion is speed surfing. It's all about fast, faster, fastest. 
-He doesn't run underneath 10km and doesn't do 'fast walking'. So, no chatting, just full speed. <br>
-Well, it makes me push myself, and I like it (afterwards). 
- 
-### :full_moon: 
-Every full moon I go for a walk with my (spiritual) friend. We just enjoy the nature and chat about life.  <br>
-We also do all sorts of activities outside of our comfort zone.  <br>
-Like ecstatic dance. Don't connect with your surrounding, only connect with yourself. <br>
-We went singing, because we feared it. <br>
-Silence day at a community. 8 hours of yoga, meditation, walk in nature, eating without talking or eye contact. Only to learn to listen to ourselfs. <br>
-If we fear something, we'll do it.
-
-### :snowman: 
-I was born near the sea, where I go swimmimg in the summer. <br>
-After I found out I feared cold circumstances, I started swimming on cold days. The coldest water temperature I swom in was 7 degrees celcius. Brrr. <br>
-And every winter we walk bare feet in the snow.
+## My Projects
  
 ### :seedling:
 At my former house I had a vegatable garden, I find it a beautiful process of seeing the plants grow.  <br>
@@ -112,6 +78,14 @@ JavaScript has got so many cool functions!<br>
 🗂️[Repo](https://github.com/kimkesdev/javascript-projects)<br>
 ☮️[Live website](https://kimkesdev.github.io/javascript-projects/)
 
+<hr>
+  
+## Practise
+  
+### Codewars JavaScript Practise
+  
+![](https://www.codewars.com/users/kimkesdev/badges/large)
+  
 ### My first Hackathon
 May 2021 <br>
 [Code Institute](https://codeinstitute.net)'s first-ever #women-in-tech Hackathon <br>
@@ -125,7 +99,41 @@ We didn't win, but that was never the intention. We were proud of the work we pr
 And it was a great experience to work together with other developers and see how others work and think. <br>
 🗂️[Repo](https://github.com/kimkesdev/hackathon-command-girl)<br>
 ☮️[Live website](https://thanh-cao.github.io/hackathon-command-girl/) <br>
-June 2021 <br>
-Code Institutes first ever LGBTQ+ Hackathon! #proud-coders Hackathon <br>
-I'll definitely join again!
+
+### My next Hackathons
+  
+16-21 June 2021 <br>
+#proud-coders Hackathon. <br>
+Code Institutes first ever LGBTQ+ Hackathon! <br>
+<br>
+24-27 Juni 2021 <br>
+#herhackathon
+  
+<hr>
+  
+## This is me
+  
+### :sparkler: 
+During the day I'm focused, creating, investigating, planning, reading, studying. <br>
+When it's dark I need a notebook, because one idea pops up after another idea. <br>
+At night I dream solutions. <br>
+And in the morning I run. Some days hard, some days relaxt. Some days far, some days just a bit.
+
+### :runner: 
+I run with my friend, chatting away. Like tea time, but more active. <br>
+I run with my mom at our atletics club, learning running techniques. <br>
+And I run with my husband. My husband only knows one speed, and that's full speed. His biggest passion is speed surfing. It's all about fast, faster, fastest. 
+He doesn't run underneath 10km and doesn't do 'fast walking'. So, no chatting, just full speed. <br>
+Well, it makes me push myself, and I like it (afterwards). 
+ 
+### :full_moon: 
+Every full moon I go for a walk with my friend. We just enjoy the nature and chat about life.  <br>
+We also do all sorts of activities outside of our comfort zone.  <br>
+Like ecstatic dance. Don't connect with your surrounding, only connect with yourself. <br>
+Silence day at a community. 8 hours of yoga, meditation, walk in nature, eating without talking or eye contact. Only to learn to listen to ourselfs. <br>
+I found out I'm affraid of cold circumstances, when I had to walk bare foot in the snow. Since then I do it every winter. <br>
+Also I started swimming outdoors on cold days. The coldest water temperature I swom in was 7 degrees celcius. Brrr. <br>
+If we fear something, we'll do it.
+
+ 
 </span>
