@@ -47,35 +47,36 @@
 
 ## My Projects
  
-### :seedling:
+### 🌱 Home Jungle | E-commerce Website
+🗂️[GitHub Repo](https://github.com/kimkesdev/home_jungle) <br>
+☮️[Live website](https://home-jungle.herokuapp.com/) <br>
 At my former house I had a vegatable garden, I find it a beautiful process of seeing the plants grow.  <br>
 At my new house I decided to not have one again. Now I have lots of pots with herbs, fruits and flowers in the garden.  <br>
 Inside the house I have a lot different types of plants. I think I have about 20 aloë vera plants, my daughters like to make lotion of it. <br>
-When I had to create an e-commerce website for my study I decided to do a plant shop. <br>
-:card_index_dividers:[Repo](https://github.com/kimkesdev/home_jungle) <br>
-:peace_symbol:[Live website](https://home-jungle.herokuapp.com/) <br>
+When I had to create an e-commerce website for my study I decided to do a plant shop. 
 
-### :file_folder: 
+### 📁 Bucketlist | Database Project
+🗂️[GitHub Repo](https://github.com/kimkesdev/bucketlist) <br>
+☮️[Live website](https://bucketlist-2020.herokuapp.com/) <br>
 I always have lots of ideas and always write everything down. <br>
 I have an diary app to write every day a little bit about my life. <br>
-Old fashion papers I use for my brainstorming. Every time an idea pops up, I write it down and working it out to a plan. <br>
+Old fashion papers I use for my brainstorming. <br>
+Every time an idea pops up, I write it down and working it out to a plan. <br>
 I use trello to plan my studying and projects. <br>
-When I had to create an database project, I decide to create a bucketlist website. <br>
-:card_index_dividers:[Repo](https://github.com/kimkesdev/bucketlist) <br>
-:peace_symbol:[Live website](https://bucketlist-2020.herokuapp.com/) <br>
-  
-### Meet my family
-Playing around with CSS Flip Cards and [Avataaars](https://avataaars.com/). <br>
-:peace_symbol:[Live website](https://kimkesdev.github.io/css-projects/flip_card/flip_card.html)
+When I had to create an database project, I decide to create a bucketlist website. 
 
-### CSS Projects
+### 👨‍👩‍👧‍👧 Meet my family
+Playing around with CSS Flip Cards and [Avataaars](https://avataaars.com/). <br>
+☮️[Live website](https://kimkesdev.github.io/css-projects/flip_card/flip_card.html)
+
+### 🎨 CSS Projects
 There is so much fun to create with just CSS! <br>
-:card_index_dividers:[repo](https://github.com/kimkesdev/css-projects)<br>
+🗂️[GitHub Repo](https://github.com/kimkesdev/css-projects)<br>
 ☮️[Live website](https://kimkesdev.github.io/css-projects/)
 
-### JavaScript Projects
-JavaScript has got so many cool functions!<br>
-🗂️[Repo](https://github.com/kimkesdev/javascript-projects)<br>
+### 📑 JavaScript Projects
+JavaScript has so many cool functions!<br>
+🗂️[GitHub Repo](https://github.com/kimkesdev/javascript-projects)<br>
 ☮️[Live website](https://kimkesdev.github.io/javascript-projects/)
 
 <hr>
@@ -90,22 +91,24 @@ JavaScript has got so many cool functions!<br>
 May 2021 <br>
 [Code Institute](https://codeinstitute.net)'s first-ever #women-in-tech Hackathon <br>
 Let's inspire, connect and grow Code Institute's Women in Tech community! <br>
+🗂️[GitHub Repo](https://github.com/kimkesdev/hackathon-command-girl)<br>
+☮️[Live website](https://thanh-cao.github.io/hackathon-command-girl/) <br>
 My team had five developers. Three Code Institute students and two former students (me). It the first hackathon of all of us. <br>
 We learned how to brainstorm through Slack calls, collaborate and divide tasks. <br>
 The three students only learned about HTML and CSS, so they did the styling part. I set up a Bootstrap theme with the starting webpages. <br>
 The other former student rebuild our project in Python and integrated a MongoDB database, but the others couldn't work with it, so it was build back to the basics. <br>
 I love typing and thinking, so I was writing the whole README and build the contact form. I was not happy with the form, so after the hackathon I build multiple forms to get the hang of it. <br>
 We didn't win, but that was never the intention. We were proud of the work we produced in the short time we had. <br>
-And it was a great experience to work together with other developers and see how others work and think. <br>
-🗂️[Repo](https://github.com/kimkesdev/hackathon-command-girl)<br>
-☮️[Live website](https://thanh-cao.github.io/hackathon-command-girl/) <br>
+And it was a great experience to work together with other developers and see how others work and think. 
 
 ### My next Hackathons
-  
+ 
+🏳️‍🌈
 16-21 June 2021 <br>
 #proud-coders Hackathon. <br>
 Code Institutes first ever LGBTQ+ Hackathon! <br>
 <br>
+💁‍♀️
 24-27 Juni 2021 <br>
 #herhackathon
   
@@ -113,20 +116,20 @@ Code Institutes first ever LGBTQ+ Hackathon! <br>
   
 ## This is me
   
-### :sparkler: 
+### 🎇
 During the day I'm focused, creating, investigating, planning, reading, studying. <br>
 When it's dark I need a notebook, because one idea pops up after another idea. <br>
 At night I dream solutions. <br>
 And in the morning I run. Some days hard, some days relaxt. Some days far, some days just a bit.
 
-### :runner: 
+### 🏃
 I run with my friend, chatting away. Like tea time, but more active. <br>
 I run with my mom at our atletics club, learning running techniques. <br>
 And I run with my husband. My husband only knows one speed, and that's full speed. His biggest passion is speed surfing. It's all about fast, faster, fastest. 
 He doesn't run underneath 10km and doesn't do 'fast walking'. So, no chatting, just full speed. <br>
 Well, it makes me push myself, and I like it (afterwards). 
  
-### :full_moon: 
+### 🌕
 Every full moon I go for a walk with my friend. We just enjoy the nature and chat about life.  <br>
 We also do all sorts of activities outside of our comfort zone.  <br>
 Like ecstatic dance. Don't connect with your surrounding, only connect with yourself. <br>
