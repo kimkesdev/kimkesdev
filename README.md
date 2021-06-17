@@ -87,13 +87,15 @@ JavaScript has so many cool functions!<br>
   
 ![](https://www.codewars.com/users/kimkesdev/badges/large)
   
-### My first Hackathon
-May 2021 <br>
-[Code Institute](https://codeinstitute.net)'s first-ever #women-in-tech Hackathon <br>
+## Hackathons
+
+### #women-in-tech Hackathon 
+5-10 May 2021 <br>
+[Code Institute](https://codeinstitute.net)'s first-ever #women-in-tech Hackathon. <br>
 Let's inspire, connect and grow Code Institute's Women in Tech community! <br>
 🗂️[GitHub Repo](https://github.com/kimkesdev/hackathon-command-girl)<br>
 ☮️[Live website](https://thanh-cao.github.io/hackathon-command-girl/) <br>
-My team had five developers. Three Code Institute students and two former students (me). It the first hackathon of all of us. <br>
+My team had five developers. Three Code Institute students and two former students (me). It was the first hackathon for all of us. <br>
 We learned how to brainstorm through Slack calls, collaborate and divide tasks. <br>
 The three students only learned about HTML and CSS, so they did the styling part. I set up a Bootstrap theme with the starting webpages. <br>
 The other former student rebuild our project in Python and integrated a MongoDB database, but the others couldn't work with it, so it was build back to the basics. <br>
@@ -101,14 +103,13 @@ I love typing and thinking, so I was writing the whole README and build the cont
 We didn't win, but that was never the intention. We were proud of the work we produced in the short time we had. <br>
 And it was a great experience to work together with other developers and see how others work and think. 
 
-### My next Hackathons
- 
-🏳️‍🌈
+### #proud-coders Hackathon 🏳️‍🌈
 16-21 June 2021 <br>
 #proud-coders Hackathon. <br>
-Code Institutes first ever LGBTQ+ Hackathon! <br>
-<br>
-💁‍♀️
+Theme: community <br>
+[Code Institute](https://codeinstitute.net)'s first ever LGBTQ+ Hackathon! <br>
+
+### #herhackathon 💁‍♀️
 24-27 Juni 2021 <br>
 #herhackathon
   
