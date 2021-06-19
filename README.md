@@ -81,19 +81,26 @@ JavaScript has so many cool functions!<br>
 
 <hr>
   
-## Practise
-  
-### Codewars JavaScript Practise
-  
-![](https://www.codewars.com/users/kimkesdev/badges/large)
-  
 ## Hackathons
+
+### #herhackathon 💁‍♀️
+24-27 Juni 2021 <br>
+#herhackathon
+
+### #proud-coders Hackathon 🏳️‍🌈
+16-21 June 2021 <br>
+#proud-coders Hackathon. <br>
+Theme: community <br>
+Code Institute's first ever LGBTQ+ Hackathon! <br>
+🗂️[GitHub Repo](https://github.com/RussOakham/Pride-In-Coding)<br>
+☮️[Live website](https://pride-in-coding.herokuapp.com/) <br>
+We divided all tasks and took track of them throught the GitHub Projects page. I took the About Us Page and the README.
 
 ### #women-in-tech Hackathon 
 5-10 May 2021 <br>
-[Code Institute](https://codeinstitute.net)'s first-ever #women-in-tech Hackathon. <br>
-Let's inspire, connect and grow Code Institute's Women in Tech community! <br>
-🗂️[GitHub Repo](https://github.com/kimkesdev/hackathon-command-girl)<br>
+Code Institute's first-ever #women-in-tech Hackathon. <br>
+Theme: Let's inspire, connect and grow Code Institute's Women in Tech community! <br>
+🗂️[GitHub Repo](https://github.com/thanh-cao/hackathon-command-girl)<br>
 ☮️[Live website](https://thanh-cao.github.io/hackathon-command-girl/) <br>
 My team had five developers. Three Code Institute students and two former students (me). It was the first hackathon for all of us. <br>
 We learned how to brainstorm through Slack calls, collaborate and divide tasks. <br>
@@ -103,16 +110,6 @@ I love typing and thinking, so I was writing the whole README and build the cont
 We didn't win, but that was never the intention. We were proud of the work we produced in the short time we had. <br>
 And it was a great experience to work together with other developers and see how others work and think. 
 
-### #proud-coders Hackathon 🏳️‍🌈
-16-21 June 2021 <br>
-#proud-coders Hackathon. <br>
-Theme: community <br>
-[Code Institute](https://codeinstitute.net)'s first ever LGBTQ+ Hackathon! <br>
-
-### #herhackathon 💁‍♀️
-24-27 Juni 2021 <br>
-#herhackathon
-  
 <hr>
   
 ## This is me
