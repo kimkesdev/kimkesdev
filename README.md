@@ -94,7 +94,7 @@ Theme: community <br>
 Code Institute's first ever LGBTQ+ Hackathon! <br>
 🗂️[GitHub Repo](https://github.com/RussOakham/Pride-In-Coding)<br>
 ☮️[Live website](https://pride-in-coding.herokuapp.com/) <br>
-We divided all tasks and took track of them throught the GitHub Projects page. I took the About Us Page and the README.
+We divided all tasks and took track of them throught the GitHub Projects page. I created the About Us Page, README, footer and programme box cards.
 
 ### #women-in-tech Hackathon 
 5-10 May 2021 <br>
