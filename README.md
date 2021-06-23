@@ -50,7 +50,7 @@
 ### 🌱 Home Jungle | E-commerce Website
 🗂️[GitHub Repo](https://github.com/kimkesdev/home_jungle) <br>
 ☮️[Live website](https://home-jungle.herokuapp.com/) <br>
-At my former house I had a vegatable garden, I find it a beautiful process of seeing the plants grow.  <br>
+At my former house I had a vegatable garden. I find it a beautiful process of seeing the plants grow.  <br>
 At my new house I decided to not have one again. Now I have lots of pots with herbs, fruits and flowers in the garden.  <br>
 Inside the house I have a lot different types of plants. I think I have about 20 aloë vera plants, my daughters like to make lotion of it. <br>
 When I had to create an e-commerce website for my study I decided to do a plant shop. 
@@ -64,10 +64,6 @@ Old fashion papers I use for my brainstorming. <br>
 Every time an idea pops up, I write it down and working it out to a plan. <br>
 I use trello to plan my studying and projects. <br>
 When I had to create an database project, I decide to create a bucketlist website. 
-
-### 👨‍👩‍👧‍👧 Meet my family
-Playing around with CSS Flip Cards and [Avataaars](https://avataaars.com/). <br>
-☮️[Live website](https://kimkesdev.github.io/css-projects/flip_card/flip_card.html)
 
 ### 🎨 CSS Projects
 There is so much fun to create with just CSS! <br>
@@ -94,7 +90,9 @@ Theme: community <br>
 Code Institute's first ever LGBTQ+ Hackathon! <br>
 🗂️[GitHub Repo](https://github.com/RussOakham/Pride-In-Coding)<br>
 ☮️[Live website](https://pride-in-coding.herokuapp.com/) <br>
-We divided all tasks and took track of them throught the GitHub Projects page. I created the About Us Page, README, footer and programme box cards.
+In a team of five (former) Code Institute students.
+We divided all tasks and took track of them throught the GitHub Projects page. <br>
+I created the About Us Page, README, footer and programme box cards.
 
 ### #women-in-tech Hackathon 
 5-10 May 2021 <br>
@@ -134,7 +132,5 @@ Like ecstatic dance. Don't connect with your surrounding, only connect with your
 Silence day at a community. 8 hours of yoga, meditation, walk in nature, eating without talking or eye contact. Only to learn to listen to ourselfs. <br>
 I found out I'm affraid of cold circumstances, when I had to walk bare foot in the snow. Since then I do it every winter. <br>
 Also I started swimming outdoors on cold days. The coldest water temperature I swom in was 7 degrees celcius. Brrr. <br>
-If we fear something, we'll do it.
-
  
 </span>
