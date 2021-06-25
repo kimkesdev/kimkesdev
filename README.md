@@ -73,9 +73,9 @@ JavaScript has so many cool functions!<br>
   
 ## Hackathons
 
-### #herhackathon 💁‍♀️
+### #HerHackathon 💁‍♀️
 24-27 Juni 2021 <br>
-[<HerHackathon>](https://www.thehackathoncompany.com/herhackathon-2021) <br>
+[HerHackathon](https://www.thehackathoncompany.com/herhackathon-2021) <br>
 Online hackathon for women by women.
 
 ### #proud-coders Hackathon 🏳️‍🌈
