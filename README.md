@@ -50,20 +50,14 @@
 ### 🌱 Home Jungle | E-commerce Website
 🗂️[GitHub Repo](https://github.com/kimkesdev/home_jungle) <br>
 ☮️[Live website](https://home-jungle.herokuapp.com/) <br>
-At my former house I had a vegatable garden. I find it a beautiful process of seeing the plants grow.  <br>
-At my new house I decided to not have one again. Now I have lots of pots with herbs, fruits and flowers in the garden.  <br>
-Inside the house I have a lot different types of plants. I think I have about 20 aloë vera plants, my daughters like to make lotion of it. <br>
-When I had to create an e-commerce website for my study I decided to do a plant shop. 
+My friends call my livingroom 'the jungle', because I have lots of plants. <br> 
+So when I had to create a e-commerce website for my study I decided to do a plant shop, so everybody can create his own Home Jungle.
 
 ### 📁 Bucketlist | Database Project
 🗂️[GitHub Repo](https://github.com/kimkesdev/bucketlist) <br>
 ☮️[Live website](https://bucketlist-2020.herokuapp.com/) <br>
-I always have lots of ideas and always write everything down. <br>
-I have an diary app to write every day a little bit about my life. <br>
-Old fashion papers I use for my brainstorming. <br>
-Every time an idea pops up, I write it down and working it out to a plan. <br>
-I use trello to plan my studying and projects. <br>
-When I had to create an database project, I decide to create a bucketlist website. 
+When I had to create an database project, I decide to create a bucketlist website. <br>
+Because it makes you think about what you really want.
 
 ### 🎨 CSS Projects
 There is so much fun to create with just CSS! <br>
@@ -81,7 +75,8 @@ JavaScript has so many cool functions!<br>
 
 ### #herhackathon 💁‍♀️
 24-27 Juni 2021 <br>
-#herhackathon
+[<HerHackathon>](https://www.thehackathoncompany.com/herhackathon-2021) <br>
+Online hackathon for women by women.
 
 ### #proud-coders Hackathon 🏳️‍🌈
 16-21 June 2021 <br>
@@ -100,13 +95,10 @@ Code Institute's first-ever #women-in-tech Hackathon. <br>
 Theme: Let's inspire, connect and grow Code Institute's Women in Tech community! <br>
 🗂️[GitHub Repo](https://github.com/thanh-cao/hackathon-command-girl)<br>
 ☮️[Live website](https://thanh-cao.github.io/hackathon-command-girl/) <br>
-My team had five developers. Three Code Institute students and two former students (me). It was the first hackathon for all of us. <br>
+My team had five (former) Code Institute students. <br> 
+It was the first hackathon for all of us. <br>
 We learned how to brainstorm through Slack calls, collaborate and divide tasks. <br>
-The three students only learned about HTML and CSS, so they did the styling part. I set up a Bootstrap theme with the starting webpages. <br>
-The other former student rebuild our project in Python and integrated a MongoDB database, but the others couldn't work with it, so it was build back to the basics. <br>
-I love typing and thinking, so I was writing the whole README and build the contact form. I was not happy with the form, so after the hackathon I build multiple forms to get the hang of it. <br>
-We didn't win, but that was never the intention. We were proud of the work we produced in the short time we had. <br>
-And it was a great experience to work together with other developers and see how others work and think. 
+I set up a Bootstrap theme with the starting webpages, build the contact form and wrote the README. 
 
 <hr>
   
