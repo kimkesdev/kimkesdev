@@ -41,9 +41,13 @@
 ![](https://camo.githubusercontent.com/a0e17e3c41abff3e7abb85b7df8b9fa42794c7df939eb6ed01f970c8677ad7a0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4669676d6126636f6c6f723d463234453145266c6f676f3d4669676d61266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![](https://camo.githubusercontent.com/e568135c48076049e77541a1f9bef6ee1c9a08bde37c8a6efb7e3cde3410c698/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d43616e766126636f6c6f723d323232323232266c6f676f3d43616e7661266c6f676f436f6c6f723d303043344343266c6162656c3d)
 
+<hr>
+  
 ## Now Studying
-![](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)  
+![](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![](<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+@ ![](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white)
   
 ![](plane-line.jpg)
  
