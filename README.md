@@ -22,7 +22,7 @@
 ![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/)
 ![](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/)
 <br>
-![](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/)    
+![](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/)
 <br>
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/)
 ![](https://camo.githubusercontent.com/b746d6462744834717458ce434499b440b2614401b2f9dd351776482958dbc64/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726970652d3637373265353f6c6f676f3d737472697065266c6f676f436f6c6f723d666666666666267374796c653d666f722d7468652d6261646765)
@@ -30,7 +30,7 @@
 <hr>  
   
 ## My Tools
-![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/)        
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/)
 <br>
 ![](https://camo.githubusercontent.com/42acc7ee3a18313a065e672e0835729edf3361dedb045d6c3cf8821fe30a1c2d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697426636f6c6f723d463035303332266c6f676f3d476974266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/)
@@ -42,7 +42,7 @@
 
 ![](plane-line.jpg)
  
- <hr>
+<hr>
 
 ## My Projects
  
