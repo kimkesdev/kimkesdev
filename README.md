@@ -6,25 +6,24 @@
 
 ## Front-End   
 ![](https://camo.githubusercontent.com/d2da7e7ec8424780720101d4853c64dffb81dc69dfdd25a0ce88cdb3848bbc6f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d48544d4c3526636f6c6f723d453334463236266c6f676f3d48544d4c35266c6f676f436f6c6f723d464646464646266c6162656c3d)
-![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/)
+![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/) 
+<br>
 ![](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/)
 ![](https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white"/)
-  
-![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/)
-![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/)
-  
+<br>
+![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/)  
 <hr>  
 
 ## Back-End
 ![](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/)
 ![](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white")
 ![](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/)
-  
+<br>
 ![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/)
 ![](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/)
-  
+<br>
 ![](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/)    
-  
+<br>
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/)
 ![](https://camo.githubusercontent.com/b746d6462744834717458ce434499b440b2614401b2f9dd351776482958dbc64/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726970652d3637373265353f6c6f676f3d737472697065266c6f676f436f6c6f723d666666666666267374796c653d666f722d7468652d6261646765)
 
@@ -72,11 +71,6 @@ JavaScript has so many cool functions!<br>
 <hr>
   
 ## Hackathons
-
-### #HerHackathon 💁‍♀️
-24-27 Juni 2021 <br>
-[HerHackathon](https://www.thehackathoncompany.com/herhackathon-2021) <br>
-Online hackathon for women by women.
 
 ### #proud-coders Hackathon 🏳️‍🌈
 16-21 June 2021 <br>
