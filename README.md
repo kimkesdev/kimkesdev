@@ -48,8 +48,9 @@
   
 ## Now Studying
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-in 
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+![Anaconda}(https://anaconda.org/conda-forge/markdown/badges/version.svg)
 @ 
 ![](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white)
   
@@ -85,7 +86,6 @@ JavaScript has so many cool functions!<br>
   
 ## Hackathons
 
-Next up: <br>
 ### Retro Gaming Hackathon
 4-9 August 2021 <br>
 Theme: retro gaming
