@@ -12,6 +12,7 @@
 ![](https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white"/)
 <br>
 ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/)  
+![](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 <hr>  
 
 ## Back-End
@@ -22,6 +23,8 @@
 ![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/)
 ![](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/)
 ![](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/)
+![](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
+![](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 <br>
 ![](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/)
 <br>
@@ -44,11 +47,11 @@
 <hr>
   
 ## Now Studying
-![](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
-![](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-in ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/)
-@ ![](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+in 
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+@ 
+![](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white)
   
 ![](plane-line.jpg)
  
@@ -82,6 +85,11 @@ JavaScript has so many cool functions!<br>
   
 ## Hackathons
 
+Next up: <br>
+### Retro Gaming Hackathon
+4-9 August 2021 <br>
+Theme: retro gaming
+
 ### #proud-coders Hackathon 🏳️‍🌈
 16-21 June 2021 <br>
 #proud-coders Hackathon. <br>
@@ -93,7 +101,7 @@ In a team of five (former) Code Institute students.
 We divided all tasks and took track of them throught the GitHub Projects page. <br>
 I created the About Us Page, README, footer and programme box cards.
 
-### #women-in-tech Hackathon 
+### #women-in-tech Hackathon
 5-10 May 2021 <br>
 Code Institute's first-ever #women-in-tech Hackathon. <br>
 Theme: Let's inspire, connect and grow Code Institute's Women in Tech community! <br>
