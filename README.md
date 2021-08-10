@@ -97,7 +97,7 @@ JavaScript has so many cool functions!<br>
 
 ### Retro Gaming Hackathon :joystick:
 4-9 August 2021 <br>
-Theme: retro gaming
+Theme: retro gaming <br>
 🗂️[GitHub Repo](https://github.com/kimkesdev/Hackathon_Game_new)<br>
 ☮️[Live website](dilner1.github.io/hackathon_game_new/)<br>
 We decided to create a space invaders based game. <br>
