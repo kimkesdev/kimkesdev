@@ -13,6 +13,7 @@
 <br>
 ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/)
 ![](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/)
+<br>
 ![](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 <hr>  
 
@@ -53,7 +54,15 @@
 ![Anaconda](https://anaconda.org/conda-forge/markdown/badges/version.svg)
 @ 
 ![](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white)
-  
+
+&
+
+Data Analytics @ Winc Academy
+
+& 
+
+Data Science @ ![](https://img.shields.io/badge/sololearn-1ABC9C?logo=SoloLearn&labelColor=000000&style=for-the-badge)
+
 ![](plane-line.jpg)
  
 <hr>
@@ -86,9 +95,13 @@ JavaScript has so many cool functions!<br>
   
 ## Hackathons
 
-### Retro Gaming Hackathon
+### Retro Gaming Hackathon :joystick:
 4-9 August 2021 <br>
 Theme: retro gaming
+🗂️[GitHub Repo](https://github.com/kimkesdev/Hackathon_Game_new)<br>
+☮️[Live website](dilner1.github.io/hackathon_game_new/)<br>
+We decided to create a space invaders based game. <br>
+Instead of killing we made it a positive game, by sending love. :heart:
 
 ### #proud-coders Hackathon 🏳️‍🌈
 16-21 June 2021 <br>
@@ -112,29 +125,4 @@ It was the first hackathon for all of us. <br>
 We learned how to brainstorm through Slack calls, collaborate and divide tasks. <br>
 I set up a Bootstrap theme with the starting webpages, build the contact form and wrote the README. 
 
-<hr>
-  
-## This is me
-  
-### 🎇
-During the day I'm focused, creating, investigating, planning, reading, studying. <br>
-When it's dark I need a notebook, because one idea pops up after another idea. <br>
-At night I dream solutions. <br>
-And in the morning I run. Some days hard, some days relaxt. Some days far, some days just a bit.
-
-### 🏃
-I run with my friend, chatting away. Like tea time, but more active. <br>
-I run with my mom at our atletics club, learning running techniques. <br>
-And I run with my husband. My husband only knows one speed, and that's full speed. His biggest passion is speed surfing. It's all about fast, faster, fastest. 
-He doesn't run underneath 10km and doesn't do 'fast walking'. So, no chatting, just full speed. <br>
-Well, it makes me push myself, and I like it (afterwards). 
- 
-### 🌕
-Every full moon I go for a walk with my friend. We just enjoy the nature and chat about life.  <br>
-We also do all sorts of activities outside of our comfort zone.  <br>
-Like ecstatic dance. Don't connect with your surrounding, only connect with yourself. <br>
-Silence day at a community. 8 hours of yoga, meditation, walk in nature, eating without talking or eye contact. Only to learn to listen to ourselfs. <br>
-I found out I'm affraid of cold circumstances, when I had to walk bare foot in the snow. Since then I do it every winter. <br>
-Also I started swimming outdoors on cold days. The coldest water temperature I swom in was 7 degrees celcius. Brrr. <br>
- 
 </span>
