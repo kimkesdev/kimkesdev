@@ -46,26 +46,6 @@
 ![](https://camo.githubusercontent.com/e568135c48076049e77541a1f9bef6ee1c9a08bde37c8a6efb7e3cde3410c698/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d43616e766126636f6c6f723d323232323232266c6f676f3d43616e7661266c6f676f436f6c6f723d303043344343266c6162656c3d)
 
 <hr>
-  
-## Now Studying
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-![Anaconda](https://anaconda.org/conda-forge/markdown/badges/version.svg)
-@ 
-![](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white)
-
-&
-
-Data Analytics @ Winc Academy
-
-& 
-
-Data Science @ ![](https://img.shields.io/badge/sololearn-1ABC9C?logo=SoloLearn&labelColor=000000&style=for-the-badge)
-
-![](plane-line.jpg)
- 
-<hr>
 
 ## My Projects
  
