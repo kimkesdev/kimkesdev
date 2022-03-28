@@ -47,19 +47,7 @@
 
 <hr>
 
-## My Projects
- 
-### 🌱 Home Jungle | E-commerce Website
-🗂️[GitHub Repo](https://github.com/kimkesdev/home_jungle) <br>
-☮️[Live website](https://home-jungle.herokuapp.com/) <br>
-My friends call my livingroom 'the jungle', because I have lots of plants. <br> 
-So when I had to create a e-commerce website for my study I decided to do a plant shop, so everybody can create his own Home Jungle.
-
-### 📁 Bucketlist | Database Project
-🗂️[GitHub Repo](https://github.com/kimkesdev/bucketlist) <br>
-☮️[Live website](https://bucketlist-2020.herokuapp.com/) <br>
-When I had to create an database project, I decide to create a bucketlist website. <br>
-Because it makes you think about what you really want.
+## Projects 4 Fun
 
 ### 🎨 CSS Projects
 There is so much fun to create with just CSS! <br>
