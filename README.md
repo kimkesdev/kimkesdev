@@ -59,38 +59,4 @@ JavaScript has so many cool functions!<br>
 🗂️[GitHub Repo](https://github.com/kimkesdev/javascript-projects)<br>
 ☮️[Live website](https://kimkesdev.github.io/javascript-projects/)
 
-<hr>
-  
-## Hackathons
-
-### Retro Gaming Hackathon :joystick:
-4-9 August 2021 <br>
-Theme: retro gaming <br>
-🗂️[GitHub Repo](https://github.com/kimkesdev/Hackathon_Game_new)<br>
-☮️[Live website](dilner1.github.io/hackathon_game_new/)<br>
-We decided to create a space invaders based game. <br>
-Instead of killing we made it a positive game, by sending love. :heart:
-
-### #proud-coders Hackathon 🏳️‍🌈
-16-21 June 2021 <br>
-#proud-coders Hackathon. <br>
-Theme: community <br>
-Code Institute's first ever LGBTQ+ Hackathon! <br>
-🗂️[GitHub Repo](https://github.com/RussOakham/Pride-In-Coding)<br>
-☮️[Live website](https://pride-in-coding.herokuapp.com/) <br>
-In a team of five (former) Code Institute students.
-We divided all tasks and took track of them throught the GitHub Projects page. <br>
-I created the About Us Page, README, footer and programme box cards.
-
-### #women-in-tech Hackathon
-5-10 May 2021 <br>
-Code Institute's first-ever #women-in-tech Hackathon. <br>
-Theme: Let's inspire, connect and grow Code Institute's Women in Tech community! <br>
-🗂️[GitHub Repo](https://github.com/thanh-cao/hackathon-command-girl)<br>
-☮️[Live website](https://thanh-cao.github.io/hackathon-command-girl/) <br>
-My team had five (former) Code Institute students. <br> 
-It was the first hackathon for all of us. <br>
-We learned how to brainstorm through Slack calls, collaborate and divide tasks. <br>
-I set up a Bootstrap theme with the starting webpages, build the contact form and wrote the README. 
-
 </span>
