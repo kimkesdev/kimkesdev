@@ -59,4 +59,6 @@ JavaScript has so many cool functions!<br>
 🗂️[GitHub Repo](https://github.com/kimkesdev/javascript-projects)<br>
 ☮️[Live website](https://kimkesdev.github.io/javascript-projects/)
 
+<hr>
+2021 contributions on GitHub in 3D: https://skyline.github.com/kimkesdev/2021
 </span>
