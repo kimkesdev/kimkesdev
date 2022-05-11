@@ -63,8 +63,8 @@ JavaScript has so many cool functions!<br>
   
 ## Contribution GitHub Skyline
 
-[2022](https://skyline.github.com/kimkesdev/2022)
-[2021](https://skyline.github.com/kimkesdev/2021)
+[2022](https://skyline.github.com/kimkesdev/2022) *
+[2021](https://skyline.github.com/kimkesdev/2021) *
 [2020](https://skyline.github.com/kimkesdev/2020)
   
 </span>
