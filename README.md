@@ -60,5 +60,10 @@ JavaScript has so many cool functions!<br>
 ☮️[Live website](https://kimkesdev.github.io/javascript-projects/)
 
 <hr>
-2021 contributions on GitHub in 3D: https://skyline.github.com/kimkesdev/2021
+  
+## Contribution GitHub Skyline
+
+2022: https://skyline.github.com/kimkesdev/2022  
+2021: https://skyline.github.com/kimkesdev/2021
+2020: https://skyline.github.com/kimkesdev/2020  
 </span>
