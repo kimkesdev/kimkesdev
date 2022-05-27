@@ -16,6 +16,7 @@
 <br>
 ![](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/-Jekyll-9cf?logo=jekyll&style=for-the-badge)
+![]https://img.shields.io/badge/-wordpress-blue?logo=wordpress&style=for-the-badge)
 <hr>  
 
 ## Back-End
