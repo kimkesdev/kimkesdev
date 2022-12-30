@@ -1,8 +1,13 @@
 <span style="font-family: 'Lucida Console';">
 
-# Kim Kes - Software Developer
-
+# Kim Kes - Developer
 ![](plane-line2.jpg)
+
+## Let's connect
+<img src="https://kimkesdev.github.io/css-projects/icons/people-circle.html" width="100"/>
+<a href="https://www.linkedin.com/in/kim-kes/">
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
 ## Projects 4 Fun
 
