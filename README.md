@@ -27,7 +27,7 @@ JavaScript has so many cool functions!<br>
 <hr>
    
 ## Let's connect
-![](avataaars.png =250x250)
+![](avataaars.png)
 <a href="https://www.linkedin.com/in/kim-kes/">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
