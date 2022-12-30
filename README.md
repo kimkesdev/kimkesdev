@@ -1,7 +1,10 @@
 <span style="font-family: 'Lucida Console';">
 
 # Kim Kes - Developer
-![](sea-turtle.svg)
+![](shttps://kimkesdev.github.io/css-projects/animations/sea-turtle.html)
+
+<hr>
+https://kimkesdev.github.io/css-projects/animations/sea-turtle.html
 
 ## Projects 4 Fun
 
