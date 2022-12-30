@@ -1,7 +1,20 @@
 <span style="font-family: 'Lucida Console';">
 
 # Kim Kes - Developer
-![](plane-line.jpg)
+  
+## Let's connect
+<img src="avataaars.png" width="100" height="100"><br>
+<a href="https://www.linkedin.com/in/kim-kes/">
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+  
+## Contribution GitHub Skyline
+
+[2023](https://skyline.github.com/kimkesdev/2023) *
+[2022](https://skyline.github.com/kimkesdev/2022) *
+[2021](https://skyline.github.com/kimkesdev/2021) *
+[2020](https://skyline.github.com/kimkesdev/2020)
+   
 
 ## Projects 4 Fun
 
@@ -14,25 +27,6 @@ There is so much fun to create with just CSS! <br>
 JavaScript has so many cool functions!<br>
 🗂️[GitHub Repo](https://github.com/kimkesdev/javascript-projects)<br>
 ☮️[Live website](https://kimkesdev.github.io/javascript-projects/)
-
-<hr>
-  
-## Contribution GitHub Skyline
-
-[2023](https://skyline.github.com/kimkesdev/2023) *
-[2022](https://skyline.github.com/kimkesdev/2022) *
-[2021](https://skyline.github.com/kimkesdev/2021) *
-[2020](https://skyline.github.com/kimkesdev/2020)
-
-<hr>
-   
-## Let's connect
-<img src="avataaars.png" width="100" height="100"><br>
-<a href="https://www.linkedin.com/in/kim-kes/">
-   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-   
-<hr>   
 
 ## Front-End   
 ![](https://camo.githubusercontent.com/d2da7e7ec8424780720101d4853c64dffb81dc69dfdd25a0ce88cdb3848bbc6f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d48544d4c3526636f6c6f723d453334463236266c6f676f3d48544d4c35266c6f676f436f6c6f723d464646464646266c6162656c3d)
@@ -48,7 +42,6 @@ JavaScript has so many cool functions!<br>
 ![](https://img.shields.io/badge/-Jekyll-9cf?logo=jekyll&style=for-the-badge)
 <br>
 ![](https://img.shields.io/badge/-wordpress-blue?logo=wordpress&style=for-the-badge)
-<hr>  
 
 ## Back-End
 ![](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/)
@@ -66,7 +59,6 @@ JavaScript has so many cool functions!<br>
 ![](https://camo.githubusercontent.com/b746d6462744834717458ce434499b440b2614401b2f9dd351776482958dbc64/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726970652d3637373265353f6c6f676f3d737472697065266c6f676f436f6c6f723d666666666666267374796c653d666f722d7468652d6261646765)
 <br>
 ![](https://img.shields.io/badge/-npm-red?logo=npm&style=for-the-badge)
-<hr>  
   
 ## My Tools
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/)
