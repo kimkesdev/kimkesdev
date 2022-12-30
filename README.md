@@ -86,6 +86,7 @@ JavaScript has so many cool functions!<br>
 
 <hr>
   
-  
+![](walvis.jpg) 
+![](schildpad.jpg)  
   
 </span>
