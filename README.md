@@ -4,6 +4,29 @@
 
 ![](plane-line2.jpg)
 
+## Projects 4 Fun
+
+### 🎨 CSS Projects
+There is so much fun to create with just CSS! <br>
+🗂️[GitHub Repo](https://github.com/kimkesdev/css-projects)<br>
+☮️[Live website](https://kimkesdev.github.io/css-projects/)
+
+### 📑 JavaScript Projects
+JavaScript has so many cool functions!<br>
+🗂️[GitHub Repo](https://github.com/kimkesdev/javascript-projects)<br>
+☮️[Live website](https://kimkesdev.github.io/javascript-projects/)
+
+<hr>
+  
+## Contribution GitHub Skyline
+
+[2023](https://skyline.github.com/kimkesdev/2023) *
+[2022](https://skyline.github.com/kimkesdev/2022) *
+[2021](https://skyline.github.com/kimkesdev/2021) *
+[2020](https://skyline.github.com/kimkesdev/2020)
+
+<hr>
+
 ## Front-End   
 ![](https://camo.githubusercontent.com/d2da7e7ec8424780720101d4853c64dffb81dc69dfdd25a0ce88cdb3848bbc6f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d48544d4c3526636f6c6f723d453334463236266c6f676f3d48544d4c35266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/) 
@@ -54,26 +77,5 @@
 ![](https://img.shields.io/badge/-termius-141729?logo=termius&style=for-the-badge)
 ![](https://img.shields.io/badge/-phpstorm-green?logo=phpstorm&style=for-the-badge)
 ![](https://img.shields.io/badge/-filezilla-red?logo=filezilla&style=for-the-badge)
-<hr>
-
-## Projects 4 Fun
-
-### 🎨 CSS Projects
-There is so much fun to create with just CSS! <br>
-🗂️[GitHub Repo](https://github.com/kimkesdev/css-projects)<br>
-☮️[Live website](https://kimkesdev.github.io/css-projects/)
-
-### 📑 JavaScript Projects
-JavaScript has so many cool functions!<br>
-🗂️[GitHub Repo](https://github.com/kimkesdev/javascript-projects)<br>
-☮️[Live website](https://kimkesdev.github.io/javascript-projects/)
-
-<hr>
-  
-## Contribution GitHub Skyline
-
-[2022](https://skyline.github.com/kimkesdev/2022) *
-[2021](https://skyline.github.com/kimkesdev/2021) *
-[2020](https://skyline.github.com/kimkesdev/2020)
   
 </span>
