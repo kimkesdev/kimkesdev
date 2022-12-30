@@ -27,6 +27,7 @@ JavaScript has so many cool functions!<br>
 <hr>
    
 ## Let's connect
+![](avataaars.png)
 <a href="https://www.linkedin.com/in/kim-kes/">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
@@ -84,9 +85,4 @@ JavaScript has so many cool functions!<br>
 ![](https://img.shields.io/badge/-phpstorm-green?logo=phpstorm&style=for-the-badge)
 ![](https://img.shields.io/badge/-filezilla-red?logo=filezilla&style=for-the-badge)
 
-<hr>
-  
-![](walvis.png) 
-![](schildpad.png )  
-  
 </span>
