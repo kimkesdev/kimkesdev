@@ -84,10 +84,8 @@ JavaScript has so many cool functions!<br>
 ![](https://img.shields.io/badge/-phpstorm-green?logo=phpstorm&style=for-the-badge)
 ![](https://img.shields.io/badge/-filezilla-red?logo=filezilla&style=for-the-badge)
 
-<hr><iframe height="300" style="width: 100%;" scrolling="no" title="FlickeringNeon" src="https://codepen.io/kimkesdev/embed/OJwNEqQ?default-tab=css%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/kimkesdev/pen/OJwNEqQ">
-  FlickeringNeon</a> by Kim Kes (<a href="https://codepen.io/kimkesdev">@kimkesdev</a>)
-  on <a href="https://codepen.io">CodePen</a>.
-</iframe>
+<hr>
+  
+  
   
 </span>
