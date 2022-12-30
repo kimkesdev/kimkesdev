@@ -1,7 +1,7 @@
 <span style="font-family: 'Lucida Console';">
 
 # Kim Kes - Developer
-![](plane-line2.jpg)
+![](sea-turtle.svg)
 
 ## Projects 4 Fun
 
