@@ -75,11 +75,15 @@ JavaScript has so many cool functions!<br>
 <br>
 ![](https://img.shields.io/badge/-atlassian-blue?logo=atlassian&style=for-the-badge)
 ![](https://img.shields.io/badge/-teamleader-2c2f56?logo=teamleader&style=for-the-badge)
+![](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  
+<br>  
 ![](https://img.shields.io/badge/-termius-141729?logo=termius&style=for-the-badge)
 ![](https://img.shields.io/badge/-phpstorm-green?logo=phpstorm&style=for-the-badge)
 ![](https://img.shields.io/badge/-filezilla-red?logo=filezilla&style=for-the-badge)
-![](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)  
 ![](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  
+<br>  
+![](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white)  
 
 ![](plane-line.jpg)
 </span>
