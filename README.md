@@ -3,14 +3,9 @@
 # Kim Kes - Developer
   
 ## Let's connect
-<a href="[](https://www.linkedin.com/in/kim-kes/?locale=nl_NL)">
-  <img src="avataaars.png" width="100" height="100"><br>
-</a>
-<a href="[](https://www.linkedin.com/in/kim-kes/?locale=nl_NL)">
-   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-  
-<a href="[](https://www.linkedin.com/in/kim-kes/?locale=nl_NL)"><img src="avataaars.png" width="100" height="100"></a>
+<img src="avataaars.png" width="100" height="100"><br>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+=> <a href="[LinkedIn](https://www.linkedin.com/in/kim-kes/?locale=nl_NL)">
   
 ## Contribution GitHub Skyline
 
