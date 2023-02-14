@@ -57,6 +57,7 @@ JavaScript has so many cool functions!<br>
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/)
 ![](https://camo.githubusercontent.com/b746d6462744834717458ce434499b440b2614401b2f9dd351776482958dbc64/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726970652d3637373265353f6c6f676f3d737472697065266c6f676f436f6c6f723d666666666666267374796c653d666f722d7468652d6261646765)
 <br>
+![](https://img.shields.io/badge/-Xampp-orange?logo=xampp&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![](https://img.shields.io/badge/-npm-red?logo=npm&style=for-the-badge)
 ![](https://img.shields.io/badge/-termius-141729?logo=termius&style=for-the-badge)
@@ -71,6 +72,9 @@ JavaScript has so many cool functions!<br>
 ![](https://img.shields.io/badge/-atlassian-blue?logo=atlassian&style=for-the-badge)
 ![](https://img.shields.io/badge/-teamleader-2c2f56?logo=teamleader&style=for-the-badge)
 ![](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  
+![](https://img.shields.io/badge/-KeePass-black?logo=keepass&logoColor=white&style=for-the-badge)  
+![](https://img.shields.io/badge/-Notepad-green?logo=notepad&logoColor=white&style=for-the-badge)     
+![](https://img.shields.io/badge/-BrowserStack-yellow?logo=browserstack&logoColor=black&style=for-the-badge)  
 ![](https://img.shields.io/badge/-Google%20AdSense-blue?logo=google&style=for-the-badge)
 
 ## Design
