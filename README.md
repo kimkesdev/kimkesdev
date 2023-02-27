@@ -62,7 +62,9 @@ JavaScript has so many cool functions!<br>
 ![](https://img.shields.io/badge/-npm-red?logo=npm&style=for-the-badge)
 ![](https://img.shields.io/badge/-termius-141729?logo=termius&style=for-the-badge)
 ![](https://img.shields.io/badge/-phpstorm-green?logo=phpstorm&style=for-the-badge)
-![](https://img.shields.io/badge/-filezilla-red?logo=filezilla&style=for-the-badge)  
+![](https://img.shields.io/badge/-filezilla-red?logo=filezilla&style=for-the-badge)   
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
   
 ## My Tools
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/)
