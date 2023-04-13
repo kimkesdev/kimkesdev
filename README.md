@@ -28,6 +28,10 @@ JavaScript has so many cool functions!<br>
 ### 🛠 PHP Projects
 🗂️[GitHub Repo](https://github.com/kimkesdev/php-projects)<br>
 ☮️[Live website](https://kimkesdev.github.io/php-projects/)  
+  
+### 🎗 PyScript Projects
+🗂️[GitHub Repo](https://github.com/kimkesdev/pyscript-projects)<br>
+☮️[Live website](https://kimkesdev.github.io/pyscript-projects/)    
 
 ## Front-End   
 ![](https://camo.githubusercontent.com/d2da7e7ec8424780720101d4853c64dffb81dc69dfdd25a0ce88cdb3848bbc6f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d48544d4c3526636f6c6f723d453334463236266c6f676f3d48544d4c35266c6f676f436f6c6f723d464646464646266c6162656c3d)
