@@ -25,7 +25,7 @@ JavaScript has so many cool functions!<br>
 🗂️[GitHub Repo](https://github.com/kimkesdev/react-projects)<br>
 ☮️[Live website](https://kimkesdev.github.io/react-projects/)
 
-### 📑 React Projects
+### 👩‍🎓 React Projects
 Just started with React<br>
 🗂️[GitHub Repo](https://github.com/kimkesdev/javascript-projects)<br>
 ☮️[Live website](https://kimkesdev.github.io/javascript-projects/)
