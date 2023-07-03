@@ -22,6 +22,11 @@ There is so much fun to create with just CSS! <br>
 
 ### 📑 JavaScript Projects
 JavaScript has so many cool functions!<br>
+🗂️[GitHub Repo](https://github.com/kimkesdev/react-projects)<br>
+☮️[Live website](https://kimkesdev.github.io/react-projects/)
+
+### 📑 React Projects
+Just started with React<br>
 🗂️[GitHub Repo](https://github.com/kimkesdev/javascript-projects)<br>
 ☮️[Live website](https://kimkesdev.github.io/javascript-projects/)
   
