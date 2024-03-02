@@ -7,6 +7,10 @@
 ➡️ [LinkedIn](https://www.linkedin.com/in/kim-kes/?locale=nl_NL)
 
 ## Projects 4 Fun
+### 💖 Fun Repositories
+[Strava](https://kimkesdev.github.io/strava/)
+[Coderdojo](https://kimkesdev.github.io/Coderdojo/)
+
 ### 🎨 CSS Projects
 There is so much fun to create with just CSS! <br>
 🗂️[GitHub Repo](https://github.com/kimkesdev/css-projects)<br>
@@ -21,10 +25,6 @@ JavaScript has so many cool functions!<br>
 Just started with React<br>
 🗂️[GitHub Repo](https://github.com/kimkesdev/react-projects)<br>
 ☮️[Live website](https://kimkesdev.github.io/react-projects/)
-
-## 💖 Fun Repositories
-[Strava](https://kimkesdev.github.io/strava/)
-[Strava](https://kimkesdev.github.io/Coderdojo/)
 
 ## 🪂 Contribution GitHub Skyline
 [2023](https://skyline.github.com/kimkesdev/2023) *
