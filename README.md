@@ -5,16 +5,8 @@
 ## Let's connect
 <img src="avataaars.png" width="100" height="100"><br>
 ➡️ [LinkedIn](https://www.linkedin.com/in/kim-kes/?locale=nl_NL)
-  
-## Contribution GitHub Skyline
-
-[2023](https://skyline.github.com/kimkesdev/2023) *
-[2022](https://skyline.github.com/kimkesdev/2022) *
-[2021](https://skyline.github.com/kimkesdev/2021) *
-[2020](https://skyline.github.com/kimkesdev/2020)
 
 ## Projects 4 Fun
-
 ### 🎨 CSS Projects
 There is so much fun to create with just CSS! <br>
 🗂️[GitHub Repo](https://github.com/kimkesdev/css-projects)<br>
@@ -29,8 +21,18 @@ JavaScript has so many cool functions!<br>
 Just started with React<br>
 🗂️[GitHub Repo](https://github.com/kimkesdev/react-projects)<br>
 ☮️[Live website](https://kimkesdev.github.io/react-projects/)
-  
-## Front-End   
+
+## 💖 Fun Repositories
+[Strava](https://kimkesdev.github.io/strava/)
+[Strava](https://kimkesdev.github.io/Coderdojo/)
+
+## 🪂 Contribution GitHub Skyline
+[2023](https://skyline.github.com/kimkesdev/2023) *
+[2022](https://skyline.github.com/kimkesdev/2022) *
+[2021](https://skyline.github.com/kimkesdev/2021) *
+[2020](https://skyline.github.com/kimkesdev/2020)
+
+## ✏️ Front-End   
 ![](https://camo.githubusercontent.com/d2da7e7ec8424780720101d4853c64dffb81dc69dfdd25a0ce88cdb3848bbc6f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d48544d4c3526636f6c6f723d453334463236266c6f676f3d48544d4c35266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -44,7 +46,7 @@ Just started with React<br>
 ![](https://img.shields.io/badge/-wordpress-blue?logo=wordpress&style=for-the-badge)
 ![](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-## Back-End
+## 💻 Back-End
 ![](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/)
 ![](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white")
 ![](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/)
@@ -71,7 +73,7 @@ Just started with React<br>
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
   
-## My Tools
+## 🛠️ My Tools
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)   
 ![](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
@@ -84,7 +86,7 @@ Just started with React<br>
 ![](https://img.shields.io/badge/-BrowserStack-yellow?logo=browserstack&logoColor=black&style=for-the-badge)  
 ![](https://img.shields.io/badge/-Google%20AdSense-blue?logo=google&style=for-the-badge)
 
-## Design
+## 🖊️ Design
 ![](https://camo.githubusercontent.com/a0e17e3c41abff3e7abb85b7df8b9fa42794c7df939eb6ed01f970c8677ad7a0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4669676d6126636f6c6f723d463234453145266c6f676f3d4669676d61266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![](https://camo.githubusercontent.com/e568135c48076049e77541a1f9bef6ee1c9a08bde37c8a6efb7e3cde3410c698/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d43616e766126636f6c6f723d323232323232266c6f676f3d43616e7661266c6f676f436f6c6f723d303043344343266c6162656c3d)
 ![](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white)    
