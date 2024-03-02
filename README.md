@@ -8,8 +8,8 @@
 
 ## Projects 4 Fun
 ### 💖 Fun Repositories
-[Strava](https://kimkesdev.github.io/strava/)
-[Coderdojo](https://kimkesdev.github.io/Coderdojo/)
+☮️[Strava](https://kimkesdev.github.io/strava/)<br>
+☮️[Coderdojo](https://kimkesdev.github.io/Coderdojo/)
 
 ### 🎨 CSS Projects
 There is so much fun to create with just CSS! <br>
