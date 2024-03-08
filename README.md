@@ -33,6 +33,7 @@ Just started with React<br>
 [2020](https://skyline.github.com/kimkesdev/2020)
 
 ## ✏️ Front-End   
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://camo.githubusercontent.com/d2da7e7ec8424780720101d4853c64dffb81dc69dfdd25a0ce88cdb3848bbc6f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d48544d4c3526636f6c6f723d453334463236266c6f676f3d48544d4c35266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -72,6 +73,7 @@ Just started with React<br>
 ![](https://img.shields.io/badge/-filezilla-red?logo=filezilla&style=for-the-badge)   
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
   
 ## 🛠️ My Tools
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/)
@@ -81,10 +83,20 @@ Just started with React<br>
 ![](https://img.shields.io/badge/-atlassian-blue?logo=atlassian&style=for-the-badge)
 ![](https://img.shields.io/badge/-teamleader-2c2f56?logo=teamleader&style=for-the-badge)
 ![](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  
-![](https://img.shields.io/badge/-KeePass-black?logo=keepass&logoColor=white&style=for-the-badge)  
-![](https://img.shields.io/badge/-Notepad-green?logo=notepad&logoColor=white&style=for-the-badge)     
+![](https://img.shields.io/badge/-KeePass-black?logo=keepass&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-Notepad-green?logo=notepad&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-BrowserStack-yellow?logo=browserstack&logoColor=black&style=for-the-badge)  
 ![](https://img.shields.io/badge/-Google%20AdSense-blue?logo=google&style=for-the-badge)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)   
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
 
 ## 🖊️ Design
 ![](https://camo.githubusercontent.com/a0e17e3c41abff3e7abb85b7df8b9fa42794c7df939eb6ed01f970c8677ad7a0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4669676d6126636f6c6f723d463234453145266c6f676f3d4669676d61266c6f676f436f6c6f723d464646464646266c6162656c3d)
